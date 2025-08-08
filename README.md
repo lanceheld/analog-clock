@@ -1,4 +1,4 @@
-# Analog Clock
+# 🕝 Analog Clock
 
 Command line utility to calculate hour/minute hand angles on an analog clock.
 
