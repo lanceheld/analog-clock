@@ -1,0 +1,22 @@
+{
+  "name": "analog-clock",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "Analog Clock",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsx ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lance Held",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.17.20",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
